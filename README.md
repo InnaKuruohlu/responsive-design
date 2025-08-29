@@ -1,3 +1,3 @@
 # responsive-design
-Created a responsive website.
+Created a responsive webpage.
 To visit the webpage: https://innakuruohlu.github.io/responsive-design/
